@@ -6,8 +6,8 @@ import '../css/index.css';
 
 export default function Home() {
   return <Fragment>
-    <Navbar/>
     <Header/>
     <OurServices/>
+    <Navbar/>
   </Fragment>
 }
